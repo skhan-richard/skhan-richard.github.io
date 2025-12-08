@@ -1,8 +1,8 @@
 ---
-title: High-Fidelity UAM Communication Analysis: Simulator Development and Real-Terrain Optimization
+title: "High-Fidelity UAM Communication Analysis: Simulator Development and Real-Terrain Optimization"
 date: 2025-08-10 10:00:00 +0900
-categories: [Research, UTM/UAM Communication]
-tags: [UTM, Redundancy, DSM, SINR, Optimization, ETRI]
+categories: ["Research", "UTM/UAM Communication"]
+tags: [UTM, UAM, Redundancy, DSM, SINR, Optimization, ETRI, KARI]
 ---
 ## Project Overview: UAM Communication Redundancy and Scenario Analysis
 This project focused on developing a highly precise simulator and optimization methodology for UAM/UTM communication, utilizing real-world geospatial data to ensure reliable connectivity in complex urban and non-terrestrial environments.
