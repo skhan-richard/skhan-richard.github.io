@@ -1,6 +1,6 @@
 ---
 title: "High-Fidelity UAM Communication Analysis: Simulator Development and Real-Terrain Optimization"
-date: 2025-12-10 10:00:00 +0900
+date: 2025-10-10 10:00:00 +0900
 categories: ["Research", "UTM/UAM Communication"]
 tags: [UTM, UAM, Redundancy, DSM, SINR, Optimization, ETRI, KARI, Antenna]
 ---
