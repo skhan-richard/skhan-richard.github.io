@@ -32,11 +32,8 @@ social:
   name: Seung-Kyu Han
   email: skhan980401@kau.kr
   links:
-    # 깃허브 아이콘 클릭 시 이동할 주소 수정됨
-    - https://github.com/skhan-richard
+    - https://orcid.org/0009-0006-3392-2695  
     # - https://twitter.com/username
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
